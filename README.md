@@ -11,7 +11,7 @@ Demo state channel implementation using Solidity.
 * Compile the ethereum contracts
     * `truffle compile`
 
-* setup the network specs in data/config.json
+* setup the network specs
 
 * Deploy ERC20 and teleportor contracts
     * `truffle migrate`
